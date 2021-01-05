@@ -14,5 +14,8 @@ nav:
   - title: "Contact"
     section: contact
 
+  - title: "Test"
+    section: test
+
   - title: "Videos"
     url: https://www.google.com/
