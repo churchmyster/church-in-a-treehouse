@@ -16,5 +16,5 @@ A whole bunch of shirts
 - Client: Threads
 - Category: Illustration
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Example Link to Google](https://www.google.com "Google's Homepage")
 
