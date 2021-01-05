@@ -23,8 +23,8 @@ services:
         icon: fab fa-markdown
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Oil"
+    text: "Some jargin about natural lifestyle "
     section: portfolio
     
 
