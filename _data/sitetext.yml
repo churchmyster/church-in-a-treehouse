@@ -118,6 +118,11 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+            
+test:
+    title: "Test"
+    text: "Lorem ipsum or call 123456789"
+    section: Test            
           
 contact:
     title: "Contact Us"
