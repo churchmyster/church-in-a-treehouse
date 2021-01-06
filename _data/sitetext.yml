@@ -9,10 +9,10 @@ services:
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Oil"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fas fa-eye-dropper #find more at https://fontawesome.com/icons
+      - title: "Test"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop       
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
@@ -23,7 +23,7 @@ services:
         icon: fab fa-markdown
 
 portfolio:
-    title: "Oil"
+    title: "Title"
     text: "Some jargin about natural lifestyle "
     section: portfolio
     
