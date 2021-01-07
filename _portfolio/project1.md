@@ -1,5 +1,5 @@
 ---
-title: Project Threads
+title: Starter Kit
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: https://github.com/churchmyster/church-in-a-treehouse/blob/master/_portfolio/Starter_Kit.jpeg
 alt: Shirts on a hanger
