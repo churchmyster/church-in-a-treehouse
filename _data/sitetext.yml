@@ -10,7 +10,7 @@ services:
     section: services
     list:
       - title: "Intro"
-        url:  https://www.youngliving.com/en_US        
+        button: test
         icon: fas fa-tint #find more at https://fontawesome.com/icons
         desc: "An introduction to essential oils"
       - title: "DIY"
