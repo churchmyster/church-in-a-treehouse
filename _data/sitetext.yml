@@ -10,14 +10,14 @@ services:
     section: services
     list:
       - title: "Intro"
-        desc: "An introduction to essential oils"
+        url:  https://www.youngliving.com/en_US        
         icon: fas fa-tint #find more at https://fontawesome.com/icons
+        desc: "An introduction to essential oils"
       - title: "DIY"
         desc: "How to do it yourself."
         icon: fas fa-tools       
       - title: "Getting Started"
         desc: "Here is how you get started with essential oils."
-        url:  https://www.youngliving.com/en_US
         icon: fas fa-power-off
 
 portfolio:
