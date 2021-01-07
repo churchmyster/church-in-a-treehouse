@@ -9,10 +9,12 @@ services:
     text: "What We Do"
     section: services
     list:
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
       - title: "Intro"
         icon: fas fa-tint #find more at https://fontawesome.com/icons
         desc: "An introduction to essential oils"
-        [Example Link to Google](https://www.google.com "Google's Homepage")
       - title: "DIY"
         desc: "How to do it yourself."
         icon: fas fa-tools       
