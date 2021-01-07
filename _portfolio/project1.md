@@ -7,7 +7,7 @@ alt: Shirts on a hanger
 caption:
   title: Threads
   subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: https://github.com/churchmyster/church-in-a-treehouse/blob/master/_portfolio/Starter_Kit.jpeg
 ---
 A whole bunch of shirts 
 
