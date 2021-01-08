@@ -10,9 +10,15 @@ caption:
   thumbnail: https://raw.githubusercontent.com/churchmyster/church-in-a-treehouse/master/_portfolio/Starter_Kit.jpeg
 ---
 **Reasons to Start**
+
 {:.list-inline}
 - Health
 - Toxins
+
+{:.list-inline}
+- Date: January 2017
+- Client: Explore
+- Category: Graphic Design
 
 
 
