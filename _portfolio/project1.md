@@ -1,13 +1,13 @@
 ---
 title: Starter Kit
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://github.com/churchmyster/church-in-a-treehouse/blob/master/_portfolio/Starter_Kit.jpeg
+image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
 alt: Starter Kit text
 
 caption:
   title: Threads
   subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: https://github.com/churchmyster/church-in-a-treehouse/blob/master/_portfolio/Starter_Kit.jpeg
 ---
 A whole bunch of shirts 
 
