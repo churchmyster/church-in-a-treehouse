@@ -10,9 +10,9 @@ caption:
   thumbnail: https://raw.githubusercontent.com/churchmyster/church-in-a-treehouse/master/_portfolio/Starter_Kit.jpeg
 ---
 Reasons to Start
-->
-->
-->
+-
+-
+-
 
 
 {:.list-inline}
