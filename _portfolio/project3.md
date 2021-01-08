@@ -5,7 +5,7 @@ image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/
 alt: 
 
 caption:
-  title: Example
+  title: Basics
   subtitle: Identity
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
 ---
