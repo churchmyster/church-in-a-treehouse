@@ -9,7 +9,8 @@ caption:
   subtitle: A New Beginning
   thumbnail: https://raw.githubusercontent.com/churchmyster/church-in-a-treehouse/master/_portfolio/Starter_Kit.jpeg
 ---
-Reasons to Start
+*Reasons to Start*
+{:.list-inline}
 - Health
 - Toxins
 
