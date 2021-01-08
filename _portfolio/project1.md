@@ -5,8 +5,8 @@ image: https://raw.githubusercontent.com/churchmyster/church-in-a-treehouse/mast
 alt: Starter Kit text
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Introduction
+  subtitle: A New Beginning
   thumbnail: https://raw.githubusercontent.com/churchmyster/church-in-a-treehouse/master/_portfolio/Starter_Kit.jpeg
 ---
 A whole bunch of shirts 
