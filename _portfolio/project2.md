@@ -1,5 +1,5 @@
 ---
-title: Project Name
+title: How To Get Started
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: ![Alt vmware](https://github.com/churchmyster/church-in-a-treehouse/blob/master/_portfolio/Starter_Kit.jpeg)
 alt: Keep Exploring
