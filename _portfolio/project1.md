@@ -15,7 +15,7 @@ caption:
 - Health
 - Toxins
 
-{:list-inline}
+{:.list}
 - Date: January 2017
 - Client: Explore
 - Category: Graphic Design
