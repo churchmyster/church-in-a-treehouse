@@ -5,7 +5,7 @@ header:
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
-    title: "Services"
+    title: "Services Rename??"
     text: "What We Do"
     section: services
     list:
