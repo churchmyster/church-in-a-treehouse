@@ -20,7 +20,7 @@ services:
         icon: fas fa-power-off
 
 portfolio:
-    title: "Title"
+    title: "Portfolio Title??"
     text: "Some jargin about natural lifestyle "
     section: portfolio
     
