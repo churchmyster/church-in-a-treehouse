@@ -1,11 +1,11 @@
 ---
-title: How To Get Started
+title: Starter Kit
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: https://raw.githubusercontent.com/churchmyster/church-in-a-treehouse/master/assets/img/portfolio/frankincense-essential-oil-as-lifestyle-habit.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
+  title: How To Get Started
   subtitle: Graphic Design
   thumbnail: https://raw.githubusercontent.com/churchmyster/church-in-a-treehouse/master/assets/img/portfolio/frankincense-essential-oil-as-lifestyle-habit.jpg
 ---
