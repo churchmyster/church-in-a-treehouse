@@ -1,13 +1,13 @@
 ---
 title: Starter Kit
 subtitle: subtitle 
-image: https://raw.githubusercontent.com/churchmyster/church-in-a-treehouse/master/_portfolio/Starter_Kit.jpeg
+image: https://raw.githubusercontent.com/churchmyster/church-in-a-treehouse/master/_portfolio/starter_kit.jpeg
 alt: Starter Kit text
 
 caption:
   title: Introduction
   subtitle: A New Beginning
-  thumbnail: https://raw.githubusercontent.com/churchmyster/church-in-a-treehouse/master/_portfolio/Starter_Kit.jpeg
+  thumbnail: https://raw.githubusercontent.com/churchmyster/church-in-a-treehouse/master/_portfolio/starter_kit_thumbnail.jpeg
 ---
 **Reasons to Start**
 
