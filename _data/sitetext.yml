@@ -107,7 +107,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Fenrir"
         role: "Lead Developer"
-        image: assets/img/team/3.jpg
+        image: assets/img/team/fenrir_snow.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
