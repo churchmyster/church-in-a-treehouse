@@ -77,7 +77,10 @@ clients:
         logo: assets/img/clients/dr_bronners.jpg
       - title: "Test"
         url: https://www.youngliving.com/en_US
-        logo: assets/img/clients/young_living_oils_logo.png
+        logo: assets/img/clients/young_living_oils_logo.png        
+      - title: "Anthony's Goods"
+        url: https://anthonysgoods.com/
+        logo: assets/img/clients/anthony's_logo.png
          
 team:
     title: "OUR AMAZING TEAM"
