@@ -87,7 +87,7 @@ team:
     people:
       - name: "Cierra Church"
         role: "Lead Designer"
-        image: assets/img/team/cierra_church.PNG
+        image: assets/img/team/cierra.PNG
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
