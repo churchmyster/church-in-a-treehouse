@@ -77,7 +77,7 @@ clients:
         logo: assets/img/clients/dr_bronners.jpg
       - title: "Test"
         url: https://www.youngliving.com/en_US
-        logo: assets/img/clients/young_living__oils_logo.png
+        logo: assets/img/clients/young_living_oils_logo.png
          
 team:
     title: "OUR AMAZING TEAM"
