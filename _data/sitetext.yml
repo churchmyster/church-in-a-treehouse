@@ -66,8 +66,8 @@ clients:
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "Young Living"
+        url: https://www.youngliving.com/en_US
         logo: assets/img/clients/envato.jpg
       - title: "designmodo"
         url: https://github.com/raviriley/agency-jekyll-theme
