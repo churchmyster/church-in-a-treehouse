@@ -69,9 +69,9 @@ clients:
       - title: "Young Living"
         url: https://www.youngliving.com/en_US
         logo: assets/img/clients/young_living_logo.png       
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
+      - title: "Hons Honey"
+        url: https://www.honshoney.com/
+        logo: assets/img/clients/honshoney_logo.png
       - title: "themeforest"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/themeforest.jpg
