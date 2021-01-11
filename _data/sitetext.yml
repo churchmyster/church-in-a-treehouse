@@ -68,7 +68,7 @@ clients:
     list:
       - title: "Young Living"
         url: https://www.youngliving.com/en_US
-        logo: assets/img/clients/envato.jpg
+        logo: assets/img/clients/young_living_logo.png       
       - title: "designmodo"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/designmodo.jpg
