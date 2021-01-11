@@ -68,16 +68,13 @@ clients:
     list:
       - title: "Young Living"
         url: https://www.youngliving.com/en_US
-        logo: assets/img/clients/young_living_logo.png       
+        logo: assets/img/clients/young_living_oils_logo.png     
       - title: "Hons Honey"
         url: https://www.honshoney.com/
         logo: assets/img/clients/honshoney_logo.png
       - title: "Dr Bronner's"
         url: https://www.drbronner.com/
-        logo: assets/img/clients/dr_bronners.jpg
-      - title: "Test"
-        url: https://www.youngliving.com/en_US
-        logo: assets/img/clients/young_living_oils_logo.png        
+        logo: assets/img/clients/dr_bronners.jpg       
       - title: "Anthony's Goods"
         url: https://anthonysgoods.com/
         logo: assets/img/clients/anthony's_goods_logo.jpg
