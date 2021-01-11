@@ -87,7 +87,7 @@ team:
     people:
       - name: "Cierra Church"
         role: "Lead Designer"
-        image: assets/img/team/cierra_church.JPG
+        image: assets/img/team/cierra_church.PNG
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -116,10 +116,6 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
             
-test:
-    title: "Test"
-    text: "Lorem ipsum or call 123456789"
-    section: test            
           
 contact:
     title: "Contact Us"
