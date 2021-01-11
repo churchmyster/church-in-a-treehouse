@@ -75,7 +75,7 @@ clients:
       - title: "Dr Bronner's"
         url: https://www.drbronner.com/
         logo: assets/img/clients/dr_bronners.jpg
-    
+         
 team:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
