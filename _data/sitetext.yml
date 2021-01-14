@@ -89,8 +89,8 @@ team:
         role: "Lead Designer"
         image: assets/img/team/cierra.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
+          - url: https://poshmark.com/closet/ctmorris92
+            icon: fab fa-product-hunt
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
